@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info
+
+*.out
+*parsetab.py
+
+.vscode/
+*.code-workspace

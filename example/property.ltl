@@ -1,0 +1,3 @@
+ASSUME !delay_00
+ASSUME X !delay_00
+ASSERT G X X X !delay_10

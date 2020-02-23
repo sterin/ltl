@@ -1,0 +1,34 @@
+aig 11 1 10 11 0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+i0 X
+o0 delay_00
+o1 delay_01
+o2 delay_02
+o3 delay_03
+o4 delay_04
+o5 delay_05
+o6 delay_06
+o7 delay_07
+o8 delay_08
+o9 delay_09
+o10 delay_10
